@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b846def6547eea4980b9d14c4bdf657, type: 3}
+  m_Name: QuadTerrainConfig
+  m_EditorClassIdentifier: 
+  TestMaterial: {fileID: 2100000, guid: fa6544bd51d895e48905af38d10d8b21, type: 2}
+  Extents: 1024
+  Meshes:
+  - Mesh: {fileID: 4300000, guid: 31a60db6e0783444197459252b4156f6, type: 2}
+    MeshType: 0
+  - Mesh: {fileID: 4300000, guid: f53417f3a3fd8d9469a91e4e1dd3b399, type: 2}
+    MeshType: 1
+  - Mesh: {fileID: 4300000, guid: 0c81217c340ce9c4c8dd729d63dc96f7, type: 2}
+    MeshType: 2
+  - Mesh: {fileID: 4300000, guid: 4f6ccffa95f22fd4db290328e243e84a, type: 2}
+    MeshType: 3
+  - Mesh: {fileID: 4300000, guid: 2f538c08b993f844fafeb590cbe546c2, type: 2}
+    MeshType: 5
+  - Mesh: {fileID: 4300000, guid: 26246e534984c98428ac5ac86ecec1e3, type: 2}
+    MeshType: 7
+  - Mesh: {fileID: 4300000, guid: 5cbdfdc7867e4bd40941816618841e8e, type: 2}
+    MeshType: 4
+  - Mesh: {fileID: 4300000, guid: 77f5e140715bad341b33ae3e25d25c9b, type: 2}
+    MeshType: 6
+  - Mesh: {fileID: 4300000, guid: b0dca7c70ec6a2a4b8908d9256a107ca, type: 2}
+    MeshType: 8
